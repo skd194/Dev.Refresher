@@ -1,0 +1,14 @@
+C:\Users\SkS\Desktop\Seria\InterviewPreparation\InterviewPreparation\DotNetConcepts\bin\Debug\netcoreapp3.1\DotNetConcepts.exe
+C:\Users\SkS\Desktop\Seria\InterviewPreparation\InterviewPreparation\DotNetConcepts\bin\Debug\netcoreapp3.1\DotNetConcepts.deps.json
+C:\Users\SkS\Desktop\Seria\InterviewPreparation\InterviewPreparation\DotNetConcepts\bin\Debug\netcoreapp3.1\DotNetConcepts.runtimeconfig.json
+C:\Users\SkS\Desktop\Seria\InterviewPreparation\InterviewPreparation\DotNetConcepts\bin\Debug\netcoreapp3.1\DotNetConcepts.runtimeconfig.dev.json
+C:\Users\SkS\Desktop\Seria\InterviewPreparation\InterviewPreparation\DotNetConcepts\bin\Debug\netcoreapp3.1\DotNetConcepts.dll
+C:\Users\SkS\Desktop\Seria\InterviewPreparation\InterviewPreparation\DotNetConcepts\bin\Debug\netcoreapp3.1\DotNetConcepts.pdb
+C:\Users\SkS\Desktop\Seria\InterviewPreparation\InterviewPreparation\DotNetConcepts\obj\Debug\netcoreapp3.1\DotNetConcepts.csproj.AssemblyReference.cache
+C:\Users\SkS\Desktop\Seria\InterviewPreparation\InterviewPreparation\DotNetConcepts\obj\Debug\netcoreapp3.1\DotNetConcepts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SkS\Desktop\Seria\InterviewPreparation\InterviewPreparation\DotNetConcepts\obj\Debug\netcoreapp3.1\DotNetConcepts.AssemblyInfoInputs.cache
+C:\Users\SkS\Desktop\Seria\InterviewPreparation\InterviewPreparation\DotNetConcepts\obj\Debug\netcoreapp3.1\DotNetConcepts.AssemblyInfo.cs
+C:\Users\SkS\Desktop\Seria\InterviewPreparation\InterviewPreparation\DotNetConcepts\obj\Debug\netcoreapp3.1\DotNetConcepts.csproj.CoreCompileInputs.cache
+C:\Users\SkS\Desktop\Seria\InterviewPreparation\InterviewPreparation\DotNetConcepts\obj\Debug\netcoreapp3.1\DotNetConcepts.dll
+C:\Users\SkS\Desktop\Seria\InterviewPreparation\InterviewPreparation\DotNetConcepts\obj\Debug\netcoreapp3.1\DotNetConcepts.pdb
+C:\Users\SkS\Desktop\Seria\InterviewPreparation\InterviewPreparation\DotNetConcepts\obj\Debug\netcoreapp3.1\DotNetConcepts.genruntimeconfig.cache
